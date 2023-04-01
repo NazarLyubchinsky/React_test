@@ -1,0 +1,16 @@
+header{
+	background: #f00;
+	padding: 10px 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	
+}
+.logo{
+	font-size: 25px;
+}
+.header__menu{
+	display: flex;
+	list-style: none;
+	gap: 30px;
+}
